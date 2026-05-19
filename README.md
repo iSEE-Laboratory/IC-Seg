@@ -1,6 +1,6 @@
 ### _Don't Guess, Just Ask_: Resolving Ambiguity in Referring Segmentation via Multi-turn Clarification
 [![arXiv](https://img.shields.io/badge/arXiv-2605.17531-b31b1b.svg)](https://arxiv.org/abs/2605.17531)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 这是该论文的官方代码实现。我们提出了一个主动澄清机制，通过多轮对话来解决指代分割（Referring Segmentation）中的歧义问题。
 
