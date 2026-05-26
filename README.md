@@ -31,8 +31,8 @@ Our work is built upon [Seg-ReSearch](https://github.com/iSEE-Laboratory/Seg-ReS
 ## 📝 Citation
 If you find our work helpful for your research, please consider citing our paper.
 ```bibtex
-@misc{yang2026textitdontguessjustask,
-      title={$\textit{Don't Guess, Just Ask}$: Resolving Ambiguity in Referring Segmentation via Multi-turn Clarification}, 
+@misc{yang2026dontguessjustask,
+      title={Don't Guess, Just Ask: Resolving Ambiguity in Referring Segmentation via Multi-turn Clarification}, 
       author={Yuting Yang and Haichao Jiang and Tianming Liang and Quan Zhang and Jian-Fang Hu},
       year={2026},
       eprint={2605.17531},
